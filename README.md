@@ -1,5 +1,5 @@
 # 2048-3D-Balls-Clone-Game
-This is the work I did in **2 days** to create a clone of **2048 3D Balls** game. I tried to create some basic mechanics used in the game.
+This is the work I did in **2 days** to create a clone of **2048 3D Balls** game. I tried to create some basic mechanics used in the game. Made with **[Unity](https://unity.com/)**.
 
 ## Mechanics
 
@@ -10,6 +10,7 @@ This is the work I did in **2 days** to create a clone of **2048 3D Balls** game
 * End the game if it exceeds the limit
 
 ## Gameplay
+Merge balls with the same number. You earn scores every time you create 2048. If you go over the limit, you lose the game.
 
 ![](/VideosAndPhotos/2048-3D-Balls-Clone-Game.gif)
 
